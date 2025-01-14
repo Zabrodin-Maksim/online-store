@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "description": "Vysoce kvalitní smartphone s vynikajícím fotoaparátem.",
+    "price": 50000,
+    "category": "Elektronika",
+    "image": "https://via.placeholder.com/300x200.png?text=Smartphone+X"
+  },
+  {
+    "id": 2,
+    "name": "Notebook Pro",
+    "description": "Výkonný notebook pro profesionály.",
+    "price": 120000,
+    "category": "Počítače",
+    "image": "https://via.placeholder.com/300x200.png?text=Notebook+Pro"
+  },
+  {
+    "id": 3,
+    "name": "Sluchátka Z",
+    "description": "Bezdrátová sluchátka s potlačením hluku.",
+    "price": 15000,
+    "category": "Příslušenství",
+    "image": "https://via.placeholder.com/300x200.png?text=Sluchátka+Z"
+  }
+]
