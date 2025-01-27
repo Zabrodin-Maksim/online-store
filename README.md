@@ -54,16 +54,21 @@ Aplikace je interaktivní front-end webová aplikace vytvořená v Reactu, kter�
 
 1. **Přihlašovací stránka:**
    - Formulář pro přihlášení uživatele:
+     
      ![image](https://github.com/user-attachments/assets/e9757623-2dda-436a-9914-4fc1a65412dd)
+     
      ![image](https://github.com/user-attachments/assets/a6558866-995a-4ab8-affa-8b5c00ce8187)
    - Pro telefon:
+     
      ![image](https://github.com/user-attachments/assets/5e2a71a3-84f6-4cc5-ac71-af6df0703a41)
 
 2. **Hlavní přehled (Dashboard):**
    - Zobrazení personalizovaných informací podle role:
      ![image](https://github.com/user-attachments/assets/5675bd87-1082-4a44-ae80-630f7f28acae)
    - Pro telefon:
+     
      ![image](https://github.com/user-attachments/assets/2cb86811-1fdc-40f9-807e-734674e236d9)
+     
      ![image](https://github.com/user-attachments/assets/928403d0-267c-40fa-9eff-9ade642ff626)
 
 3. **Profil uživatele:**
@@ -72,6 +77,7 @@ Aplikace je interaktivní front-end webová aplikace vytvořená v Reactu, kter�
 
 4. **Správa uživatelů (pouze pro Administrátory):**
    - Zobrazení seznamu uživatelů s možností detailní úpravy rolí:
+     
      ![image](https://github.com/user-attachments/assets/ccb5a1bd-0da2-4eea-9fdf-17b5770317e5)
      ![image](https://github.com/user-attachments/assets/f4e32644-9c2c-42aa-b614-42f5ddf7d343)
      ![image](https://github.com/user-attachments/assets/61005f9d-2eed-4970-80a9-3d1f8cb4e0c0)
@@ -81,8 +87,10 @@ Aplikace je interaktivní front-end webová aplikace vytvořená v Reactu, kter�
      ![image](https://github.com/user-attachments/assets/0173451b-6540-4e3f-a2fb-8c46d0aad301)
      ![image](https://github.com/user-attachments/assets/b4539144-a5b8-4216-bd31-a80eab777569)
    - (dle role) Buyer:
+     
      ![image](https://github.com/user-attachments/assets/a4e8acb0-06ba-4a0f-9faf-bb7795b03737)
    - Pro telefon:
+     
      ![image](https://github.com/user-attachments/assets/b038c5a4-5710-431e-ab3b-c925815ced38)
 
 6. **Detail produktu:**
@@ -96,6 +104,7 @@ Aplikace je interaktivní front-end webová aplikace vytvořená v Reactu, kter�
 
 8. **Nastavení (pouze pro Administrátory):**
    - Konfigurace aplikace:
+     
      ![image](https://github.com/user-attachments/assets/879bffaa-ab64-4f7f-a961-22e5708e302a)
      ![image](https://github.com/user-attachments/assets/f3c41e47-a790-470c-9fad-5ca1df7062b3)
 
