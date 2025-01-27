@@ -34,23 +34,23 @@
       "description": "Vysoce kvalitní smartphone ...",
       "price": 50000,
       "category": "Elektronika",
-      "image": "https://via.placeholder.com/300x200.png?text=Smartphone+X"
+      "image": "https://www.huramobil.cz/fotocache/mid/MTIPHXSILVER64GB.jpg"
     },
     {
       "id": "c362",
-      "name": "Max",
-      "description": "max",
+      "name": "Lenovo V15 G4 IRU Business Black",
+      "description": "Notebook - Intel Core i3 1315U Raptor Lake, 15.6\" TN antireflexní 1920 × 1080, RAM 8GB DDR4, Intel UHD Graphics, SSD 512GB, numerická klávesnice, webkamera, USB 3.2 Gen 1, USB-C, WiFi 5, hmotnost 1,67 kg, Windows 11 Home",
       "price": "1200",
       "category": "Elektronika",
-      "image": "mmm"
+      "image": "https://recenzenotebooku.cz/wp-content/uploads/2025/01/Lenovo-V15-G4-IRU-Business-Black-4.jpg"
     },
     {
       "id": "f5e5",
-      "name": "Max",
-      "description": "max",
-      "price": "12222",
-      "category": "max",
-      "image": "https://www.pngkit.com/png/full/935-9358191_laptop-clipart-laptop-screen-laptop-transparent-background.png"
+      "name": "PlayStation 5 Pro",
+      "description": "Herní konzole - k TV, SSD 2048 GB, bez mechaniky (nepřehrává fyzické disky), možnost hraní ve 4K, menu v češtině, 1x herní ovladač Vertikální stojan není součástí balení a je prodáván samostatně.",
+      "price": "20000",
+      "category": "Elektronika",
+      "image": "https://images.mironet.cz/foto/3/90724340/11.jpg"
     }
   ],
   "orders": []

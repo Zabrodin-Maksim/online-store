@@ -126,14 +126,17 @@ const ProductForm = () => {
 
                         <Form.Group className="mb-3" controlId="formProductCategory">
                             <Form.Label>Kategorie</Form.Label>
-                            <Form.Control
-                                type="text"
-                                placeholder="Zadejte kategorii produktu"
+                            <Form.Select
                                 name="category"
                                 value={product.category}
                                 onChange={handleChange}
                                 required
-                            />
+                            >
+                                <option value="">Vyberte kategorii</option>
+                                <option value="Elektronika">Elektronika</option>
+                                <option value="Počítače">Počítače</option>
+                                <option value="Příslušenství">Příslušenství</option>
+                            </Form.Select>
                         </Form.Group>
 
                         <Form.Group className="mb-3" controlId="formProductImage">

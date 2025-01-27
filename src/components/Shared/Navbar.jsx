@@ -49,14 +49,14 @@ const NavigationBar = ({ user, currentRole, onRoleSwitch, setUser }) => {
 
                         <Nav.Link as={Link} to="/profile">Profil</Nav.Link>
 
-                        {/* Настройки только для Administrator */}
+
                         {currentRole === 'Administrator' && (
                             <Nav.Link as={Link} to="/settings">Nastavení</Nav.Link>
                         )}
                     </Nav>
 
                     <Form className="d-flex align-items-center">
-                        {/* Если у пользователя несколько ролей -> dropdown для переключения */}
+
                         {user.roles && user.roles.length > 1 && (
                             <Form.Select
                                 className="me-2"

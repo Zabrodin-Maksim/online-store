@@ -18,6 +18,10 @@ body {
     color: #007bff;
 }
 
+.navbar-toggler-icon{
+    background-color: white;
+}
+
 .nav-link {
     color: #007bff;
 }
